@@ -24,3 +24,5 @@ Exp7_iterative.m - It contains code of thresholding by iterative method (Binary 
 Exp8_otsu.m - It contains code of OTSU Thresholding using with and without inbuilt function.
 
 Exp9_dct.m - It contains code of Image Compression using DCT for 10% quality and 90% quality of an Image.
+
+Please Note:- All the images used for experimentations are there in MATLAB's Directory by Default,so RUN them as it is.For Exp5 and above i have uploaded image named a1.tif
